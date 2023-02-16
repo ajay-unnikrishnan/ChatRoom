@@ -1,2 +1,2 @@
 # ChatRoom
-A chat room -  created using node.js and socket.io
+A simple chat room app created using node.js, express, socket.io and jQuery
